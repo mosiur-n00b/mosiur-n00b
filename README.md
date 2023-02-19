@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Mosiur Rahman</h1>
-<h2 align="center">Competitive Programmer | Software Engineer Trainee</h2>
+<h2 align="center">Competitive Programmer | Problem Solver</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosiur-n00b&label=Profile%20views&color=0e75b6&style=flat" alt="mosiur-n00b" /> </p>
 
