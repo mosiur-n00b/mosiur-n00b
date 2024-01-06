@@ -24,7 +24,7 @@ I love to read books, watch movies and I love to travel.
 ### Numbers
 ![mosiur's Stats](https://github-readme-stats.vercel.app/api?username=mosiur-n00b&theme=light&show_icons=true&hide_border=true&count_private=true)
 
-![mosiur's Streak]((https://github-readme-streak-stats.herokuapp.com/?user=mosiur-n00b&theme=default&hide_border=true))
+![mosiur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosiur-n00b&theme=default&hide_border=true)
 
 ![mosiur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosiur-n00b&theme=default&show_icons=true&hide_border=true&layout=compact)
 
